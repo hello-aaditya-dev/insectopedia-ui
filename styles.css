@@ -174,16 +174,16 @@ body{
 }
 
 .detail-item h4{
-    font-size:20px;
+    font-size:30px;
     margin-bottom:8px;
 }
 
 .detail-item p{
-    font-size:20px;
+    font-size:25px;
 }
 
 .price{
-    font-size:70px;
+    font-size:40px;
     margin-top:50px;
     color:#f5ddb0;
 }
@@ -224,7 +224,7 @@ body{
 }
 
 button{
-    margin-top:40px;
+    margin-top: 60px;
     width:300px;
     height:74px;
 
@@ -245,6 +245,6 @@ button{
 }
 
 .beetle-image img{
-    width: 190px;
+    width: 250px;
     opacity: 0.9;
 }
